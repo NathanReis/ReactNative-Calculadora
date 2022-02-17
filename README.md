@@ -8,6 +8,8 @@ divisão), usando uma interface toda trabalhada no colorido.
 Caso você não queira saber de instalar Node, Yarn, Expo e tudo mais que é
 preciso, siga as instruções de como executar [via Docker](#docker).
 
+![Amostras](https://user-images.githubusercontent.com/53984490/154589882-c4e405a7-6889-4e52-8139-006e95b1e571.png)
+
 # Usando Docker
 
 ## Construindo a imagem
